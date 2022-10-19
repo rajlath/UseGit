@@ -132,7 +132,4 @@ for i in range(1617, 1618):
 # f.close()
 # end main section 
 
-#checking for push command after changeing a file.
-
-
-Checkex.difference(y)
+# 2022-10-19 13:13:38
